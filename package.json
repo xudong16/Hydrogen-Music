@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.5.1",
   "main": "background.js",
-  "author": "xudong16",
+  "author": "lonicera",
   "scripts": {
     "dev": "vite",
     "start": "electron .",
@@ -42,7 +42,7 @@
     "vite": "^3.2.0"
   },
   "build": {
-    "appId": "com.xudong16.hydrogenmusic",
+    "appId": "com.lonicera.hydrogenmusic",
     "productName": "Hydrogen Music",
     "win": {
       "target": "nsis",
